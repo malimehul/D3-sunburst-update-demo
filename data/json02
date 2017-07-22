@@ -1,0 +1,476 @@
+[
+  {
+    "name": "SC 450",
+    "index": "A1",
+    "health": "UNKNOWN",
+    "id": 29
+  },
+  {
+    "name": "Base Controller",
+    "index": "A1 > B1",
+    "health": "PASSIVE",
+    "id": 32
+  },
+  {
+    "name": "Base Unit",
+    "index": "A1 > B1 > C1",
+    "health": "PASSIVE",
+    "id": 16
+  },
+  {
+    "name": "OPTM",
+    "index": "A1 > B1 > C1 > D1",
+    "health": "ACTIVE",
+    "id": 1
+  },
+  {
+    "name": "Remote Hub Unit",
+    "index": "A1 > B1 > C1 > D1 > E1",
+    "health": "INACTIVE",
+    "id": 17
+  },
+  {
+    "name": "Add-on Unit",
+    "index": "A1 > B1 > C1 > D1 > E1 > F1",
+    "health": "INACTIVE",
+    "id": 30
+  },
+  {
+    "name": "Add-on Unit",
+    "index": "A1 > B1 > C1 > D1 > E1 > F2",
+    "health": "INACTIVE",
+    "id": 26
+  },
+  {
+    "name": "Base Unit",
+    "index": "A1 > B1 > C2",
+    "health": "PASSIVE",
+    "id": 4
+  },
+  {
+    "name": "OPTM",
+    "index": "A1 > B1 > C2 > D2",
+    "health": "ACTIVE",
+    "id": 42
+  },
+  {
+    "name": "Remote Hub Unit",
+    "index": "A1 > B1 > C2 > D2 > E2",
+    "health": "INACTIVE",
+    "id": 19
+  },
+  {
+    "name": "Add-on Unit",
+    "index": "A1 > B1 > C2 > D2 > E2 > F3",
+    "health": "INACTIVE",
+    "id": 25
+  },
+  {
+    "name": "Add-on Unit",
+    "index": "A1 > B1 > C2 > D2 > E2 > F4",
+    "health": "INACTIVE",
+    "id": 36
+  },
+  {
+    "name": "Base Unit",
+    "index": "A1 > B1 > C3",
+    "health": "PASSIVE",
+    "id": 57
+  },
+  {
+    "name": "OPTM",
+    "index": "A1 > B1 > C3 > D3",
+    "health": "ACTIVE",
+    "id": 71
+  },
+  {
+    "name": "OPTM",
+    "index": "A1 > B1 > C3 > D4",
+    "health": "ACTIVE",
+    "id": 56
+  },
+  {
+    "name": "Optical Central Hub Unit",
+    "index": "A1 > B1 > C4",
+    "health": "PASSIVE",
+    "id": 50
+  },
+  {
+    "name": "OPTM",
+    "index": "A1 > B1 > C4 > D5",
+    "health": "ACTIVE",
+    "id": 72
+  },
+  {
+    "name": "Radio Interface Unit",
+    "index": "A1 > B1 > C5",
+    "health": "PASSIVE",
+    "id": 66
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B1 > C5 > D10",
+    "health": "INACTIVE",
+    "id": 60
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B1 > C5 > D11",
+    "health": "INACTIVE",
+    "id": 67
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B1 > C5 > D12",
+    "health": "INACTIVE",
+    "id": 44
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B1 > C5 > D13",
+    "health": "INACTIVE",
+    "id": 45
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B1 > C5 > D14",
+    "health": "INACTIVE",
+    "id": 80
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B1 > C5 > D15",
+    "health": "INACTIVE",
+    "id": 21
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B1 > C5 > D16",
+    "health": "INACTIVE",
+    "id": 37
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B1 > C5 > D17",
+    "health": "INACTIVE",
+    "id": 85
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B1 > C5 > D6",
+    "health": "INACTIVE",
+    "id": 31
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B1 > C5 > D7",
+    "health": "INACTIVE",
+    "id": 2
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B1 > C5 > D8",
+    "health": "INACTIVE",
+    "id": 20
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B1 > C5 > D9",
+    "health": "INACTIVE",
+    "id": 48
+  },
+  {
+    "name": "Radio Interface Unit",
+    "index": "A1 > B1 > C6",
+    "health": "PASSIVE",
+    "id": 46
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B1 > C6 > D18",
+    "health": "INACTIVE",
+    "id": 27
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B1 > C6 > D19",
+    "health": "INACTIVE",
+    "id": 9
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B1 > C6 > D20",
+    "health": "INACTIVE",
+    "id": 70
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B1 > C6 > D21",
+    "health": "INACTIVE",
+    "id": 73
+  },
+  {
+    "name": "Radio Interface Unit",
+    "index": "A1 > B1 > C7",
+    "health": "PASSIVE",
+    "id": 3
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B1 > C7 > D22",
+    "health": "INACTIVE",
+    "id": 62
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B1 > C7 > D23",
+    "health": "INACTIVE",
+    "id": 40
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B1 > C7 > D24",
+    "health": "INACTIVE",
+    "id": 0
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B1 > C7 > D25",
+    "health": "INACTIVE",
+    "id": 14
+  },
+  {
+    "name": "Base Controller",
+    "index": "A1 > B2",
+    "health": "ACTIVE",
+    "id": 84
+  },
+  {
+    "name": "Base Unit",
+    "index": "A1 > B2 > C10",
+    "health": "PASSIVE",
+    "id": 39
+  },
+  {
+    "name": "OPTM",
+    "index": "A1 > B2 > C10 > D28",
+    "health": "ACTIVE",
+    "id": 55
+  },
+  {
+    "name": "OPTM",
+    "index": "A1 > B2 > C10 > D30",
+    "health": "ACTIVE",
+    "id": 33
+  },
+  {
+    "name": "Optical Central Hub Unit",
+    "index": "A1 > B2 > C11",
+    "health": "PASSIVE",
+    "id": 5
+  },
+  {
+    "name": "OPTM",
+    "index": "A1 > B2 > C11 > 31",
+    "health": "ACTIVE",
+    "id": 11
+  },
+  {
+    "name": "Radio Interface Unit",
+    "index": "A1 > B2 > C12",
+    "health": "PASSIVE",
+    "id": 15
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B2 > C12 > D32",
+    "health": "ACTIVE",
+    "id": 10
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B2 > C12 > D33",
+    "health": "ACTIVE",
+    "id": 13
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B2 > C12 > D34",
+    "health": "ACTIVE",
+    "id": 63
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B2 > C12 > D35",
+    "health": "ACTIVE",
+    "id": 8
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B2 > C12 > D36",
+    "health": "ACTIVE",
+    "id": 79
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B2 > C12 > D37",
+    "health": "ACTIVE",
+    "id": 69
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B2 > C12 > D38",
+    "health": "ACTIVE",
+    "id": 24
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B2 > C12 > D39",
+    "health": "ACTIVE",
+    "id": 68
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B2 > C12 > D40",
+    "health": "ACTIVE",
+    "id": 51
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B2 > C12 > D41",
+    "health": "ACTIVE",
+    "id": 81
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B2 > C12 > D42",
+    "health": "ACTIVE",
+    "id": 86
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B2 > C12 > D43",
+    "health": "ACTIVE",
+    "id": 35
+  },
+  {
+    "name": "Radio Interface Unit",
+    "index": "A1 > B2 > C13",
+    "health": "PASSIVE",
+    "id": 7
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B2 > C13 > D44",
+    "health": "ACTIVE",
+    "id": 49
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B2 > C13 > D45",
+    "health": "PASSIVE",
+    "id": 59
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B2 > C13 > D46",
+    "health": "ACTIVE",
+    "id": 58
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B2 > C13 > D47",
+    "health": "ACTIVE",
+    "id": 28
+  },
+  {
+    "name": "Radio Interface Unit",
+    "index": "A1 > B2 > C14",
+    "health": "PASSIVE",
+    "id": 43
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B2 > C14 > D48",
+    "health": "ACTIVE",
+    "id": 77
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B2 > C14 > D49",
+    "health": "PASSIVE",
+    "id": 75
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B2 > C14 > D50",
+    "health": "ACTIVE",
+    "id": 83
+  },
+  {
+    "name": "BTSC",
+    "index": "A1 > B2 > C14 > D51",
+    "health": "ACTIVE",
+    "id": 61
+  },
+  {
+    "name": "Base Unit",
+    "index": "A1 > B2 > C8",
+    "health": "PASSIVE",
+    "id": 22
+  },
+  {
+    "name": "OPTM",
+    "index": "A1 > B2 > C8 > D26",
+    "health": "ACTIVE",
+    "id": 54
+  },
+  {
+    "name": "Remote Hub Unit",
+    "index": "A1 > B2 > C8 > D26 > E3",
+    "health": "INACTIVE",
+    "id": 65
+  },
+  {
+    "name": "Add-on Unit",
+    "index": "A1 > B2 > C8 > D26 > E3 > F5",
+    "health": "PASSIVE",
+    "id": 6
+  },
+  {
+    "name": "Add-on Unit",
+    "index": "A1 > B2 > C8 > D26 > E3 > F5",
+    "health": "PASSIVE",
+    "id": 47
+  },
+  {
+    "name": "Base Unit",
+    "index": "A1 > B2 > C9",
+    "health": "PASSIVE",
+    "id": 52
+  },
+  {
+    "name": "OPTM",
+    "index": "A1 > B2 > C9 > D27",
+    "health": "ACTIVE",
+    "id": 38
+  },
+  {
+    "name": "Remote Hub Unit",
+    "index": "A1 > B2 > C9 > D27 > E4",
+    "health": "INACTIVE",
+    "id": 53
+  },
+  {
+    "name": "Add-on Unit",
+    "index": "A1 > B2 > C9 > D27 > E4 > F6",
+    "health": "INACTIVE",
+    "id": 76
+  },
+  {
+    "name": "Add-on Unit",
+    "index": "A1 > B2 > C9 > D27 > E4 > F6",
+    "health": "INACTIVE",
+    "id": 78
+  }
+]
