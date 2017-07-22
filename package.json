@@ -1,0 +1,27 @@
+{
+  "name": "sunburst_update",
+  "version": "1.0.0",
+  "description": "Dynamic update sunburst chart in d3.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malimehul/D3-sunburst-update-demo.git"
+  },
+  "keywords": [
+    "sunburst",
+    "dynamic",
+    "update"
+  ],
+  "author": "Mehul Mali <malimehul4889@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malimehul/D3-sunburst-update-demo/issues"
+  },
+  "homepage": "https://github.com/malimehul/D3-sunburst-update-demo#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
